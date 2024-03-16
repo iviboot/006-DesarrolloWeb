@@ -1,6 +1,6 @@
 Desarrollo web
 
-no es para publicar ya que este documento muestra una parte de la manipulacion del DOM.
+Este documento muestra una parte de la manipulacion del DOM.
 
 realmente javascript es muy extenso 
 
