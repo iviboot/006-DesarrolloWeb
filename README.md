@@ -6,6 +6,8 @@ realmente javascript es muy extenso
 
 manipulacion de style y html con javascript;
 
+.innerHtML//.style.
+
 document.getElementById //uso del id ="" en html
 
 document.getElementsByClassName //uso del class ="" en html
