@@ -4,7 +4,7 @@ Este documento muestra una parte de la manipulacion del DOM.
 
 realmente javascript es muy extenso 
 
-manipulacion de style y html con javascript;
+manipulacion de style y html con javascript; 
 
 .innerHtML//.style.
 
